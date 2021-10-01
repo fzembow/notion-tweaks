@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+  "name": "Notion Tweaks",
+  "version": "1.0",
+  "description": "Opinionated UI/UX tweaks for Notion",
+  "content_scripts": [
+    {
+      "matches": [
+        "*://*.notion.so/*"
+      ],
+      "css": [
+        "notion-tweaks.css"
+      ]
+    }
+  ]
+}
