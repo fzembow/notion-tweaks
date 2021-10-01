@@ -6,4 +6,4 @@ Opinionated browser extension to modify Notion for increased usability
 
 ## Features
 
-- Disable emoji. Maybe I am a grumpy old man, but emoji contribute to visual noise and reduce the legibility of boards, tables, and lists.
+- **Disable emoji**. Perhaps I am a grumpy old man and not with the times, but the gratuitous use of emoji within Notion contributes to visual noise and reduces the legibility of boards, tables, and lists.
